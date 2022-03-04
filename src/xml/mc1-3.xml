@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="false">
+		<questiontext>Which of the following can be amplified by PCR?  &lt;br/ &gt;
+            (1)	RNA  &lt;br/ &gt;
+            (2)	Single stranded DNA  &lt;br/ &gt;
+            (3)	Double stranded DNA
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) only.</text>
+        <feedback>INCORRECT! RNA is converted to DNA by reverse transcriptase for PCR</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) only.</text>
+		<feedback>INCORRECT! Not just this.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(2) and (3) only.</text>
+		<feedback>CORRECT! Both single stranded and double stranded DNA can be amplified</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3).</text>
+		<feedback>INCORRECT! RNA is converted to DNA by reverse transcriptase for PCR</feedback>
+	</answer>
+	</question>
+	
+	<question number="2" randomanswer="true">
+		<questiontext>If there is 1 copy of target gene before the PCR cycle starts, after 35th cycle, how many copies of target gene are there?</questiontext>
+
+	<answer fraction="0">
+		<text>2 x 35</text>
+        <feedback>INCORRECT! After each cycle, the PCR product can act as template for further amplification.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>2 x 36</text>
+		<feedback>INCORRECT! After each cycle, the PCR product can act as template for further amplification.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>2&#x00b3;&#x2075;</text>
+		<feedback>INCORRECT! Please try again!</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>2&#x00b3;&#x2076;</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	</question>
+	
+	<question number="3" randomanswer="false">
+        <questiontext>The reason of using Taq polymerase in PCR is/are:  &lt;br/ &gt;
+            (1)	It will not be denatured at 95ºC.  &lt;br/ &gt;
+            (2)	It can catalyze the polymerization process at 95ºC.  &lt;br/ &gt;
+            (3)	It adds nucleotides to the 3' end of each primer attaching to the DNA strand.
+</questiontext>
+	
+	<answer fraction="0">
+		<text>(1) only</text>
+        <feedback>INCORRECT! There is still one important property of Taq polymerase</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+		<feedback>INCORRECT! Taq polymerase has limited catalytic function at 95ºC</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1) and (3) only</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>All of above</text>
+		<feedback>INCORRECT! Taq polymerase temporarily stops working at 95oC and it works optimally at 72ºC</feedback>
+	</answer>
+	</question>
+	
+	<question number="4" randomanswer="true">
+		<questiontext>Which of the following CANNOT be used as a source of DNA for PCR?</questiontext>
+	<answer fraction="0">
+		<text>Semen</text>
+		<feedback>INCORRECT! DNA in a single sperm can be amplified by PCR</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Dried corncob</text>
+		<feedback>INCORRECT! DNA in dried corncob had been successfully amplified by PCR</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Teeth</text>
+		<feedback>INCORRECT! Pulp tissue extracted from teeth can be used as a source of DNA</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>NONE of above</text>
+        <feedback>CORRECT! A very small quantity or even partly degraded DNA can be amplified by PCR</feedback>
+	</answer>
+	</question>
+	
+	<question number="5" randomanswer="false">
+		<questiontext>The efficiency of PCR drops after several runs, this is because  &lt;br/ &gt;
+            (1)	not all DNA are denatured as the DNA concentration becomes high.  &lt;br/ &gt;
+            (2)	there are less nucleotides available.  &lt;br/ &gt;
+            (3)	there is insufficient amount of active Taq polymerase.
+</questiontext>
+
+	<answer fraction="0">
+		<text>(1) only</text>
+        <feedback>INCORRECT! There are still other reasons</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+		<feedback>INCORRECT! There are still other reasons</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (3) only</text>
+		<feedback>INCORRECT! There are still other reasons</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1), (2) and (3)</text>
+		<feedback>CORRECT! Taq polymerase has half-life of 45 minutes at 94ºc, so some Taq polymerase may be inactive.</feedback>
+	</answer>
+
+	</question>
+</questions>

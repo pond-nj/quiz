@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="true">
+		<questiontext>How many mitotic cycles are needed for a cell in apical meristem to form 256 cells?</questiontext>
+	
+	<answer fraction="0">
+		<text>7</text>
+        <feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>8</text>
+		<feedback>CORRECT! The number of cells doubles after each mitotic cell division. 1->2->4->8->16->32->64->128->256</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>64</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>128</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	</question>
+	
+	<question number="2" randomanswer="true">
+		<questiontext>In the production of human sperms by meiosis, there will be ______________at the end of anaphase I.</questiontext>
+
+	<answer fraction="0">
+		<text>23 chromosomes</text>
+        <feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>23 chromatids</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>46 chromatids</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>46 chromosomes</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	</question>
+	
+	<question number="3" randomanswer="false">
+        <questiontext>Which of the following can undergo cell divisions?  &lt;br/ &gt;
+            (1)	Fertilized egg  &lt;br/ &gt;
+            (2)	Sperm  &lt;br/ &gt;
+            (3)	Bone cells
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+        <feedback>INCORRECT! sperms can’t undergo cell divisions.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1) and (3) only</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (3) only</text>
+		<feedback>INCORRECT! sperms can’t undergo cell divisions.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3)</text>
+		<feedback>INCORRECT! sperms can’t undergo cell divisions.</feedback>
+	</answer>
+	</question>
+	
+	<question number="4" randomanswer="false">
+        <questiontext>Which of the following correctly describes independent assortment in meiosis?  &lt;br/ &gt;
+            (1)	Exchange of genetic materials between sister chromatids.  &lt;br/ &gt;
+            (2)	Rearrangement of chromosomes.  &lt;br/ &gt;
+            (3)	Rearrangement of alleles along the chromosome.
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) only</text>
+        <feedback>INCORRECT! Exchange of genetic materials between sister chromatids occurs in crossing over.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(2) only</text>
+		<feedback>CORRECT! Independent assortment refers to the random separation of homologous chromosomes during meiosis.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+		<feedback>INCORRECT! Exchange of genetic materials between sister chromatids occurs in crossing over.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (3) only</text>
+		<feedback>INCORRECT! Exchange of genetic materials between sister chromatids occurs in crossing over. Rearrangement of alleles along the chromosome occurs in mutation.</feedback>
+	</answer>
+	</question>
+	
+	<question number="5" randomanswer="false">
+		<questiontext>Which of the following correctly states the difference between mitosis and meiosis?  &lt;br/ &gt;
+            (1)	Replication of chromosomes occurs before mitosis but not meiosis.  &lt;br/ &gt;
+            (2)	Pairing of homologous chromosome occurs in meiosis only.  &lt;br/ &gt;
+            (3)	2 haploid daughter cells form after each cycle of meiosis while 2 diploid daughter cells form after mitosis.
+        </questiontext>
+
+	<answer fraction="0">
+		<text>(1) only</text>
+        <feedback>INCORRECT! Replication of chromosomes occurs before both mitosis and meiosis.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(2) only</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+		<feedback>INCORRECT! Replication of chromosomes occurs before both mitosis and meiosis.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (3) only</text>
+		<feedback>INCORRECT! Replication of chromosomes occurs before both mitosis and meiosis; 4 haploid daughter cells form after each cycle of meiosis.</feedback>
+	</answer>
+
+	</question>
+</questions>

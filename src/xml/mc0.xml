@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="false" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="false">
+        <questiontext>Which of the following statement(s) represent(s) Aristotle’s view on reality?
+<br/>(1) Sensible objects are eternal.
+    <br/>(2) Existence of sensible objects depends on forms.
+<br/>(3) Reality is not found in the realm of forms. 
+</questiontext>
+	<image ></image>
+	<answer fraction="0">
+		<text>(2) only</text>
+		<feedback>Read Chap. 3, Para. 3-4</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(3) only</text>
+        <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+		<feedback>Read Chap. 3, Para. 3-4</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (3) only</text>
+		<feedback>Read Chap. 3, Para. 3-4</feedback>
+	</answer>
+	</question>
+	
+	
+	<question number="2" randomanswer="true">
+		<questiontext>Concerning ‘form’ and ‘matter’, Aristotle said that…</questiontext>
+
+	<answer fraction="1">
+		<text>‘form’ represents the properties of sensible objects.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>’form’ and ‘matter’ exist independently.</text>
+		<feedback>Read Chap. 3, Para. 7-8</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>‘matter’ can be reduced to  four elements. </text>
+		<feedback>Read Chap. 3, Para. 7-8</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>‘form’ is the perfect idea of a sensible object. </text>
+		<feedback>Read Chap. 3, Para. 7-8</feedback>
+	</answer>
+	</question>
+    
+    
+	
+	<question number="3" randomanswer="false">
+			<questiontext>The 1st statement: Aristotle suggested that sense experience is necessary for obtaining true knowledge. 
+The 2nd statement: True knowledge could only be obtained by people having a good intuition.</questiontext>
+
+	<answer fraction="0">
+		<text>Both statements are correct, and the 2nd statement is a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 3, Para. 10</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Both statements are correct, but the 2nd statement is NOT a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 3, Para. 10</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>The 1st statement is correct, but the 2nd statement is incorrect. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is incorrect, but the 2nd statement is correct.</text>
+		<feedback>Read Chap. 3, Para. 10</feedback>
+	</answer>
+
+	</question>
+	
+	<question number="4" randomanswer="false">
+		<questiontext>The 1st statement: According to Aristotle, grasping the common properties of sensible things does not mean acquiring true knowledge.
+The 2nd statement: True knowledge should be in deductive demonstration. 
+</questiontext>
+
+	<answer fraction="1">
+		<text>Both statements are correct, and the 2nd statement is a correct explanation of the 1st statement.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Both statements are correct, but the 2nd statement is NOT a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is correct, but the 2nd statement is incorrect.</text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is incorrect, but the 2nd statement is correct.</text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+	</question>
+	<question number="5" randomanswer="true">
+		<questiontext>Sandy has found that sparrows, parrots and pigeons could fly, and thus concluded that “all birds could fly”. What kind of logical reasoning has she applied?</questiontext>
+
+	<answer fraction="1">
+		<text>Inductive reasoning</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Deductive reasoning</text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Creative reasoning</text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Analytical reasoning </text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+
+	</question>
+	
+	
+		<question number="6" randomanswer="true">
+		<questiontext>Jack was told that all birds could fly. Jack thought that “Ladybird” is a kind of bird.
+Therefore, he thought that “ladybirds” could also fly. What kind of logical reasoning has he applied? 
+</questiontext>
+	
+	<answer fraction="1">
+		<text>Deductive reasoning</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Inductive reasoning</text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Creative reasoning</text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Analytical reasoning </text>
+		<feedback>Read Chap. 3, Para. 11</feedback>
+	</answer>
+
+	</question>
+		<question number="7" randomanswer="true">
+			<questiontext>Imagine that you have set up a controlled experiment to investigate if sunlight is necessary for photosynthesis. What would be Aristotle’s opinion to your work? </questiontext>
+
+	<answer fraction="1">
+		<text>“This controlled experiment violates the nature of the studied plant, you should just observe it instead.” </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>“This is exactly how I seek true knowledge.”</text>
+		<feedback>Read Chap. 3, Para. 19</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>“It is meaningless to just study one kind of plant. You should study more species.”</text>
+		<feedback>Read Chap. 3, Para. 19</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>“I have no interest in biological research but in physical science.”</text>
+		<feedback>Read Chap. 3, Para. 19</feedback>
+	</answer>
+
+	</question>
+	
+	<question number="8" randomanswer="false">
+		<questiontext>The 1st statement: Plato suggested that changes would only happen in the sensible (material) realm. 
+The 2nd statement: Aristotle suggested that changes would also happen in the realm of forms (intelligible realm) 
+</questiontext>
+
+	<answer fraction="0">
+		<text>Both statements are correct, and the 2nd statement is a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 3, Para. 13</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Both statements are correct, but the 2nd statement is NOT a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 3, Para. 13</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>The 1st statement is correct, but the2nd statement is incorrect.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is incorrect, but the 2nd statement is correct.</text>
+		<feedback>Read Chap. 3, Para. 13</feedback>
+	</answer>
+	</question>
+	<question number="9" randomanswer="false">
+		<questiontext>Which of the following statements are CORRECT about Plato’s and Aristotle’s views on reality?  &lt;br/ &gt;
+(1) Plato: Reality is found in the intelligible realm, but not in the sensible realm.  &lt;br/ &gt;
+(2) Aristotle: Reality is found in the sensible realm, and there is no intelligible realm. &lt;br/ &gt;
+(3) Plato: The forms in the realm of forms may undergo changes.  &lt;br/ &gt;
+(4) Aristotle: Changes really happen in the sensible realm. &lt;br/ &gt;
+</questiontext>
+	
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+		<feedback>Read Chap. 3, Para 13</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (3) only</text>
+		<feedback>Read Chap. 3, Para 13</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1), (2) and (4) only</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2), (3) and (4) only</text>
+		<feedback>Read Chap. 3, Para 13</feedback>
+	</answer>
+
+	</question>
+	
+	
+		<question number="10" randomanswer="true">
+		<questiontext>How would Aristotle explain the melting of an ice cube? </questiontext>
+	
+	<answer fraction="1">
+		<text>The ice cube transforms from ‘potential water’ to ‘actual water’. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The ice cube absorbs energy and the arrangement of water molecules then changes.</text>
+		<feedback>Read Chap. 3, Para. 15</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The ‘heat’ of the ice cube suddenly appears and it melts the ice into water.</text>
+		<feedback>Read Chap. 3, Para. 15</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>An external driving force melts the ice cube. </text>
+		<feedback>Read Chap. 3, Para. 15</feedback>
+	</answer>
+	</question>
+	
+
+	<question number="11" randomanswer="true">
+		<questiontext>What are the ‘efficient cause’ and the ‘final cause’ of a falling rock?</questiontext>
+	
+	<answer fraction="1">
+		<text>The efficient cause is the nature of the rock, final cause is reaching its natural place. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>There is no efficient cause and the final cause is reaching the natural place. </text>
+		<feedback>Read Chap. 3, Para. 20-22 </feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The efficient cause is gravity, the final cause is the Prime mover.</text>
+		<feedback>Read Chap. 3, Para. 20-22 </feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The efficient cause is an external impressed force, the final cause is to achieve perfection. </text>
+		<feedback>Read Chap. 3, Para. 20-22 </feedback>
+	</answer>
+	</question>
+	
+	<question number="12" randomanswer="true">
+		<questiontext>What are the ‘efficient cause’ and the ‘final cause’ of this ‘DiaNable’ app? </questiontext>
+
+	<answer fraction="1">
+		<text>Efficient cause: UGFN teachers and ITSC’s staff; Final cause: to facilitate the understanding of texts. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Efficient cause: your mobile phone; Final cause: for entertainment.</text>
+		<feedback>Read Chap. 3, Para. 20</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Efficient cause: UGFN teachers and ITSC’s staff; Final cause: the design of it (including the logical flow and graphics)</text>
+		<feedback>Read Chap. 3, Para. 20</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Efficient cause: UGFN students; Final cause: to facilitate the understanding of texts</text>
+		<feedback>Read Chap. 3, Para. 20</feedback>
+	</answer>
+	</question>
+	
+	<question number="13" randomanswer="true">
+				<questiontext>What are the ‘formal cause’ and the ‘material cause’ of a cup of coffee?</questiontext>
+	
+	<answer fraction="1">
+		<text>Formal cause: the expected flavour of it; material cause: coffee beans and water.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Formal cause: a barista; material cause: a coffee machine.</text>
+		<feedback>Read Chap. 3, Para. 20</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Formal cause: to stay awake throughout the night; material cause: the flavour of it.</text>
+		<feedback>Read Chap. 3, Para. 20</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Formal cause: to get relaxed; material cause: coffee beans and water.</text>
+		<feedback>Read Chap. 3, Para. 20</feedback>
+	</answer>
+	</question>
+	
+	<question number="14" randomanswer="false">
+		<questiontext>Which of the following is/are true about the sublunar region of the universe? &lt;br/ &gt;
+(1) It is also called the terrestrial region. &lt;br/ &gt;
+(2) It is filled with aether. &lt;br/ &gt;
+(3) It is a place where birth and death occur. &lt;br/ &gt;
+(4) Changes are possible inside.  &lt;br/ &gt;
+</questiontext>
+	<answer fraction="0">
+		<text>(2) only</text>
+		<feedback>Read Chap. 3, Para. 25</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(3) and (4)</text>
+		<feedback>Read Chap. 3, Para. 25</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3)</text>
+		<feedback>Read Chap. 3, Para. 25</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1), (3) and (4)</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	</question>
+	
+	<question number="15" randomanswer="false">
+		<questiontext>In Aristotle’s view of the universe, the order of the five elements starting from the centre of the universe is:</questiontext>
+
+	<answer fraction="1">
+		<text>earth, water, air, fire, aether</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>fire, earth, water, air, aether</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>earth, water, fire, air, aether </text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>aether, water, earth, air, fire</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+
+	</question>
+	
+	
+		<question number="16" randomanswer="true">
+		<questiontext>Who originally suggested the “four elements”? </questiontext>
+
+	<answer fraction="1">
+		<text>Empedocles</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Aristotle</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Plato</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Parmenides</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+
+	</question>
+		<question number="17" randomanswer="true">
+			<questiontext>Which is a CORRECT description about the qualities of air? </questiontext>
+
+	<answer fraction="1">
+		<text>Wet and hot</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Wet and cold</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Dry and hot</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Dry and cold</text>
+		<feedback>Read Chap. 3, Para. 26</feedback>
+	</answer>
+
+	</question>
+	
+	<question number="18" randomanswer="false">
+		<questiontext>The 1st statement: Aristotle said that a falling body could not achieve an infinite speed.
+The 2nd statement: Vacuum is not possible. 
+</questiontext>
+	
+	<answer fraction="1">
+		<text>Both statements are correct, and the 2nd statement is a correct explanation of the 1st statement.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Both statements are correct, but the 2nd statement is NOT a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 3, Para. 28</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is correct, but the 2nd statement is incorrect.</text>
+		<feedback>Read Chap. 3, Para. 28</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is incorrect, but the 2nd statement is correct.</text>
+		<feedback>Read Chap. 3, Para. 28</feedback>
+	</answer>
+
+	</question>
+	<question number="19" randomanswer="true">
+		<questiontext>Which is a CORRECT statement about Aristotle’s theory of cosmology?</questiontext>
+
+	<answer fraction="1">
+		<text>The celestial region, where motions are unvarying circular, is eternal.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The terrestrial region is the material realm containing sensible objects.</text>
+		<feedback>Read Chap. 3, Para. 25</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Above the Sun is the celestial region. </text>
+		<feedback>Read Chap. 3, Para. 25</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Objects in the terrestrial region move towards and away from their natural  places. </text>
+		<feedback>Read Chap. 3, Para. 25</feedback>
+	</answer>
+	</question>
+	
+	
+		<question number="20" randomanswer="true">
+		<questiontext>Which of the following is an INCORRECT statement about Aristotle’s general law of motion?</questiontext>
+	
+	<answer fraction="1">
+		<text>If the motive force is equal to the resistance, the object maintains a constant velocity.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>In a falling motion, the motive force is the weight of the body. </text>
+		<feedback>Read Chap. 3, Para. 36</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The velocity of a motion is directly proportional to the motive force.</text>
+		<feedback>Read Chap. 3, Para. 36</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Aristotle did not apply the concept of velocity but described motion in terms of distance and time. </text>
+		<feedback>Read Chap. 3, Para. 36</feedback>
+	</answer>
+
+	</question>
+	
+	
+
+
+	<question number="21" randomanswer="true">
+		<questiontext>How does the author comment on Aristotle’s theories of motion?</questiontext>
+
+	<answer fraction="1">
+		<text>The theories still make a good sense today. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The theories are not inspiring at all. </text>
+		<feedback>Read Chap. 3, Para. 37</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The theories are consistent with the modern science.</text>
+		<feedback>Read Chap. 3, Para. 37</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>He remains neutral toward the theories. </text>
+		<feedback>Read Chap. 3, Para. 37</feedback>
+	</answer>
+	</question>
+	
+	<question number="22" randomanswer="true">
+		<questiontext>Which statement about the celestial region is CORRECT?</questiontext>
+	<answer fraction="1">
+		<text>All fixed stars rotate on the same sphere in uniform circular motion.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Fixed stars are closer to the centre of the universe than Mars. </text>
+		<feedback>Read Chap. 3, Para. 38-41</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Each Prime Mover rotates together with its planets.</text>
+		<feedback>Read Chap. 3, Para. 38-41</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Prime Mover is the efficient cause of planetary motions. </text>
+		<feedback>Read Chap. 3, Para. 38-41</feedback>
+	</answer>
+	</question>
+	
+	<question number="23" randomanswer="false">
+			<questiontext>The 1st statement: Prime Mover is not the efficient cause of planetary motion.
+The 2nd statement: There are altogether 55 Prime Movers in the universe. 
+</questiontext>
+
+	<answer fraction="0">
+		<text>Both statements are correct, and the 2nd statement is a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 3, Para. 40-41</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>Both statements are correct, but the 2nd statement is NOT a correct explanation of the 1st statement.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is correct, but the 2nd statement is incorrect.</text>
+		<feedback>Read Chap. 3, Para. 40-41</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is incorrect, but the 2nd statement is correct.</text>
+		<feedback>Read Chap. 3, Para. 40-41</feedback>
+	</answer>
+	</question>
+	
+	<question number="24" randomanswer="true">
+		<questiontext>What kind of motion does the following figure represent?</questiontext>
+		<image>image/lindberg-evale51.png</image>
+	
+	<answer fraction="1">
+		<text>A uniform motion</text>
+        <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>A uniformly accelerated motion</text>
+		<feedback>Read Chap. 12, Fig 12.6</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>A uniformly decelerated motion</text>
+		<feedback>Read Chap. 12, Fig 12.6</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>None of the above</text>
+		<feedback>Read Chap. 12, Fig 12.6</feedback>
+	</answer>
+	</question>
+	<question number="25" randomanswer="true">
+		<questiontext>Which of the followings is INCORRECT about the Merton rule (mean-speed theorem)?</questiontext>
+
+	<answer fraction="1">
+		<text>Uniformly accelerated motion covers the same distance with uniform motion in a given time. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>A kinematic problem is solved with geometrical representation.</text>
+		<feedback>Read Chap. 3, Para. 44-45</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Uniformly accelerated motion and uniform motion are represented by triangles and rectangles respectively in velocity-time graph. </text>
+		<feedback>Read Chap. 3, Para. 44-45</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The distance covered by a uniformly accelerated motion in a future time-slot can be precisely determined. </text>
+		<feedback>Read Chap. 3, Para. 44-45</feedback>
+	</answer>
+	</question>
+	
+	
+		<question number="26" randomanswer="true">
+		<questiontext>What did Oresme apply to represent the intensity of heat?</questiontext>
+	
+	<answer fraction="1">
+		<text>A vertical line segment</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>A horizontal line segment </text>
+		<feedback>Read Chap. 3, Para. 40</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>A piece of rod</text>
+		<feedback>Read Chap. 3, Para. 40</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>A ruler </text>
+		<feedback>Read Chap. 3, Para. 40</feedback>
+	</answer>
+
+	</question>
+		<question number="27" randomanswer="false">
+			<questiontext>‘Momentum’ is a modern interpretation of ‘impetus’.</questiontext>
+
+	<answer fraction="0">
+		<text>true</text>
+		<feedback>Read Chap. 12, Para. 55</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>false</text>
+         <feedback>Correct.</feedback>
+	</answer>
+<answer fraction="0"/>
+	<answer fraction="0"/>
+         </question>
+	
+	<question number="28" randomanswer="true">
+		<questiontext>Which is a CORRECT statement about the concept of ‘impetus’?</questiontext>
+
+	<answer fraction="1">
+		<text>The velocity of a falling object increases as its impetus increases. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Impetus is an external motive force that imposes an internal incorporeal force to an object. </text>
+		<feedback>Read Chap. 12, Para. 55</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Impetus can be quantified by the velocity and the mass of the inhered object.</text>
+		<feedback>Read Chap. 12, Para. 55</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Impetus of an object disappears once it loses contact with the external mover. </text>
+		<feedback>Read Chap. 12, Para. 55</feedback>
+	</answer>
+
+	</question>
+	<question number="29" randomanswer="false">
+		<questiontext>According to Aristotle, 
+The 1st statement: Natural motions do not require external movers.
+The 2nd statement: All motions require movers.
+</questiontext>
+
+	<answer fraction="0">
+		<text>Both statements are correct, and the 2nd statement is a correct explanation of the 1st statement.</text>
+		<feedback>Read Chap. 12, Para. 49</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>Both statements are correct, but the 2nd statement is NOT a correct explanation of the 1st </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is correct, but the 2nd statement is incorrect.</text>
+		<feedback>Read Chap. 12, Para. 49</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The 1st statement is incorrect, but the 2nd statement is correct.</text>
+		<feedback>Read Chap. 12, Para. 49</feedback>
+	</answer>
+	</question>
+	
+	
+		<question number="30" randomanswer="true">
+		<questiontext>Which is a CORRECT statement of Philoponus’s view on motions? </questiontext>
+
+	<answer fraction="1">
+		<text>All natural and forced motions are caused by internal movers.</text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>All natural and forced motions are caused by external movers.</text>
+		<feedback>Read Chap. 12, Para. 52 </feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Natural motions are caused by internal movers, while forced motions are caused by external movers.</text>
+		<feedback>Read Chap. 12, Para. 52 </feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Forced motions are caused by internal movers, while natural motions are caused by external movers.</text>
+		<feedback>Read Chap. 12, Para. 52 </feedback>
+	</answer>
+	</question>
+
+		<question number="31" randomanswer="true">
+		<questiontext>How did Philoponus explain the continuous upward motion of a ball leaving his hand? </questiontext>
+
+	<answer fraction="1">
+		<text>His hand impressed the ball with an incorporeal force, which is responsible for the upward motion. </text>
+                <feedback>Correct.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>He pushed the air together with the ball, then the air continued to move the ball. </text>
+		<feedback>Read Chap. 12, Para. 52 </feedback>
+	</answer>
+	<answer fraction="0">
+		<text>He imposed a velocity to the ball and the ball fell under gravity after leaving his hand. </text>
+		<feedback>Read Chap. 12, Para. 52 </feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The ball moved towards its natural place.</text>
+		<feedback>Read Chap. 12, Para. 52 </feedback>
+	</answer>
+	</question>
+   
+	
+</questions>

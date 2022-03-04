@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="false">
+		<questiontext>Which of the following criteria must be fulfilled for a vaccine to be effective?  &lt;br/ &gt;
+            (1) It contains an antigen that triggers the primary immune response but not causing disease.  &lt;br/ &gt;
+            (2) It must be lifetime lasting.  &lt;br/ &gt;
+            (3) It can induce both the humoral immune response and cell mediated immune response.  &lt;br/ &gt;
+            (4) It must be able to be administered intramuscularly.
+        </questiontext>
+	
+	<answer fraction="1">
+		<text>(1) only</text>
+        <feedback>CORRECT! To trigger the formation of memory cells in the body is the most important criteria for a vaccine.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+		<feedback>INCORRECT! Whether it is lifetime lasting depends on how long the memory cells can persist.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3) only</text>
+		<feedback>INCORRECT! Whether it is lifetime lasting depends on how long the memory cells can persist; it is not necessary to trigger both immune response everytime.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2), (3) and (4) only</text>
+		<feedback>INCORRECT! Whether it is lifetime lasting depends on how long the memory cells can persist; it is not necessary to trigger both immune response everytime; vaccine can be administered orally or through other routes.</feedback>
+	</answer>
+	</question>
+	
+	<question number="2" randomanswer="false">
+		<questiontext>The reason of using isolated protein from virus (subunit vaccine) over the whole virus is/are because  &lt;br/ &gt;
+            (1) It contains antigens of the virus.  &lt;br/ &gt;
+            (2) It triggers a stronger immune response.  &lt;br/ &gt;
+            (3) It cannot reproduce in the host.  &lt;br/ &gt;
+            (4) It would not trigger allergic response.
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+        <feedback>INCORRECT! They trigger the same strength of immune response.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1) and (3) only</text>
+		<feedback>CORRECT! It contains the antigen for immune response but cannot reproduce in the host, so it is safer to use isolated protein.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (4) only</text>
+		<feedback>INCORRECT! They trigger the same strength of immune response and both can trigger allergic response.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (3) and (4) only</text>
+		<feedback>INCORRECT! They both can trigger allergic response.</feedback>
+	</answer>
+	</question>
+	
+	<question number="3" randomanswer="true">
+        <questiontext>DNA vaccine contains _____ DNA for coding _____ antigens inside the cell which triggers immune response.</questiontext>
+	
+	<answer fraction="0">
+		<text>human, protein</text>
+        <feedback>INCORRECT! It should be microbial DNA.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>human, polysaccharides</text>
+		<feedback>INCORRECT! It should be microbial DNA and it codes for protein.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>bacterial, protein</text>
+		<feedback>CORRECT! Bacterial DNA cloned to a vector is injected into the body for expressing the protein antigen.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>bacterial, polysaccharides</text>
+		<feedback>INCORRECT! DNA doesn't code for polysaccharides.</feedback>
+	</answer>
+	</question>
+	
+	<question number="4" randomanswer="true">
+        <questiontext>Stephen is a 6-month old boy who receives breastfeeding from his mother, he is immune to chicken-pox since he receives antibody from his mother's milk. This kind of immunity is</questiontext>
+	
+	<answer fraction="0">
+		<text>artificial &#0038; active</text>
+        <feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>artificial &#0038; passive</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>natural &#0038; active</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>natural &#0038; passive</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	</question>
+	
+	<question number="5" randomanswer="true">
+		<questiontext>You should not take a vaccine if you are</questiontext>
+
+	<answer fraction="0">
+		<text>taking antibiotics</text>
+        <feedback>INCORRECT! You can still take a vaccine.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>breast feeding</text>
+		<feedback>INCORRECT! You can still take a vaccine.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>allergic to milk</text>
+		<feedback>INCORRECT! There is no association between vaccine and milk allergy. However, if one has egg allergy, he/she should consult a doctor before taking the vaccine.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>having severe allergic reaction after a previous dose of vaccine.</text>
+		<feedback>CORRECT! This may be life threatening if allergic to a vaccine.</feedback>
+	</answer>
+
+	</question>
+</questions>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="false">
+		<questiontext>To synthesize a protein using recombinant DNA technology, it must involve:  &lt;br/ &gt;
+            (1) Cutting of a desired gene by restriction enzymes  &lt;br/ &gt;
+            (2) Culturing bacteria for synthesizing the recombinant proteins.  &lt;br/ &gt;
+            (3) Inserting the recombinant DNA into a living organism.
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+        <feedback>INCORRECT! Yeast and other organisms can also be used to synthesize recombinant proteins.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1) and (3) only</text>
+		<feedback>CORRECT! Yeast and other organisms can also be used to synthesize recombinant proteins.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (3) only</text>
+		<feedback>INCORRECT! Yeast and other organisms can also be used to synthesize recombinant proteins.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3)</text>
+		<feedback>INCORRECT! Yeast and other organisms can also be used to synthesize recombinant proteins.</feedback>
+	</answer>
+	</question>
+	
+	<question number="2" randomanswer="true">
+		<questiontext>Which of the following doesn’t match with its function in recombinant DNA technology?</questiontext>
+	
+	<answer fraction="0">
+		<text>Restriction enzyme -> production of desired DNA fragments for cloning.</text>
+        <feedback>INCORRECT! This is a correct match.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>DNA ligase -> cutting of plasmids to generate sticky ends.</text>
+		<feedback>CORRECT! DNA ligase is for ligation of gene into plasmid.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Antibiotic -> use to select the successful transformed bacteria.</text>
+		<feedback>INCORRECT! This is a correct match.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Bacterial plasmid -> use as a vector to transfer the gene of interest.</text>
+		<feedback>INCORRECT! This is a correct match.</feedback>
+	</answer>
+	</question>
+	
+	<question number="3" randomanswer="true">
+        <questiontext>To insert a foreign DNA into a plasmid, they must</questiontext>
+	
+	<answer fraction="0">
+		<text>have the same number of bases.</text>
+        <feedback>INCORRECT! They can have different number of bases.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>come from the same type of cell.</text>
+		<feedback>INCORRECT! They usually come from different types of cells.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>be cut by the same restriction enzyme.</text>
+		<feedback>CORRECT! Same restriction site allows them to be joined together.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>have the same DNA sequence.</text>
+		<feedback>INCORRECT! This is not necessary.</feedback>
+	</answer>
+	</question>
+	
+	<question number="4" randomanswer="false">
+		<questiontext>Which of the following enzymes are needed for producing recombinant DNA from a target gene and a vector?  &lt;br/ &gt;
+            (1) DNA polymerase  &lt;br/ &gt;
+            (2) Restriction Endonuclease  &lt;br/ &gt;
+            (3) Ligase
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) only</text>
+        <feedback>INCORRECT! DNA polymerase is not needed for producing recombinant DNA</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (3) only</text>
+		<feedback>INCORRECT! DNA polymerase is not needed for producing recombinant DNA</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(2) and (3) only</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3)</text>
+		<feedback>INCORRECT! DNA polymerase is not needed for producing recombinant DNA</feedback>
+	</answer>
+	</question>
+	
+	<question number="5" randomanswer="false">
+		<questiontext>Which of the following is a part of cloning recombinant DNA in bacteria?  &lt;br/ &gt;
+            (1) Cutting of cellular and plasmid DNA by the same restriction endonuclease.  &lt;br/ &gt;
+            (2) Mixing DNA ligase with digested cellular DNA and plasmid DNA.  &lt;br/ &gt;
+            (3) Select the transformed bacteria by electrophoresis.
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) only</text>
+        <feedback>INCORRECT! There are more than one correct answers</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1) and (2) only</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (3) only</text>
+		<feedback>INCORRECT! Transformed bacteria are usually selected by antibiotics on agar plate</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3)</text>
+		<feedback>INCORRECT! Transformed bacteria are usually selected by antibiotics on agar plate</feedback>
+	</answer>
+	</question>
+</questions>

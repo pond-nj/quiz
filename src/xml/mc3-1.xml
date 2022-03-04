@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="true">
+		<questiontext>Which of the following is FALSE?</questiontext>
+	
+	<answer fraction="1">
+		<text>Restriction enzymes cut DNA of specific species.</text>
+        <feedback>CORRECT! Restriction enzymes can cut DNA at specific sequence of any species</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>DNA fragments cut by a restriction enzyme can pair with the complementary DNA of any species.</text>
+		<feedback>INCORRECT! This statement is true</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Some restriction enzymes have more than one restriction site.</text>
+		<feedback>INCORRECT! This statement is true</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The use of restriction enzyme in bacteria is to digest DNA of invading bacterial virus.</text>
+		<feedback>INCORRECT! This statement is true</feedback>
+	</answer>
+	</question>
+	
+	<question number="2" randomanswer="true">
+		<questiontext>Which of the following comparison between restriction enzyme EcoRV and protease Pepsin is CORRECT?</questiontext>
+	
+	<answer fraction="0">
+		<text>They recognize and cut specific sequence of DNA or polypeptides.</text>
+        <feedback>INCORRECT! Pepsin cut non-specifically within polypeptide</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>They are extracted from bacteria.</text>
+		<feedback>INCORRECT! Pepsin is produced in human</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>They work by breaking the bonding between nucleotides or amino acids.</text>
+		<feedback>CORRECT! Restriction enzymes work by hydrolyzing phosphodiester bond between nucleotides in DNA</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>The enzymatic reactions generate amino acids or nucleotides.</text>
+		<feedback>INCORRECT! Restriction enzymes only cut DNA strand, without breaking down it into simple subunits</feedback>
+	</answer>
+	</question>
+	
+	<question number="3" randomanswer="true">
+        <questiontext>According to information in the following table, which combination of enzymes leaves ends that can be ligated together?  &lt;br/ &gt;
+            &lt;table&gt;
+            &lt;tr&gt;&lt;td&gt;  &lt;/td&gt;&lt;td&gt;Restriction Enzyme &lt;/td&gt;&lt;td&gt;Recognition site &lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;1 &lt;/td&gt;&lt;td&gt;BssHII&lt;/td&gt;&lt;td&gt;G/CGCGC&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;2 &lt;/td&gt;&lt;td&gt;Sau3A&lt;/td&gt;&lt;td&gt;/GATC&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;3 &lt;/td&gt;&lt;td&gt;EcoRV&lt;/td&gt;&lt;td&gt;GAT/ATC&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;4 &lt;/td&gt;&lt;td&gt;BglII&lt;/td&gt;&lt;td&gt;A/GATCT&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;5 &lt;/td&gt;&lt;td&gt;PvuI&lt;/td&gt;&lt;td&gt;CGAT/CG&lt;/td&gt;&lt;/tr&gt;
+            &lt;/table&gt;
+        </questiontext>
+	
+	<answer fraction="1">
+		<text>2 and 4</text>
+        <feedback>CORRECT! they have complementary sequence at GATC</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>2 and 3</text>
+		<feedback>INCORRECT! Please try again</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>2 and 5</text>
+		<feedback>INCORRECT! Please try again</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>1 and 5</text>
+		<feedback>INCORRECT! Please try again</feedback>
+	</answer>
+	</question>
+	
+	<question number="4" randomanswer="true">
+		<questiontext>If a bacterium contains no restriction enzyme, which of the following would you expect to happen?</questiontext>
+	
+	<answer fraction="0">
+		<text>It cannot replicate its DNA.</text>
+        <feedback>INCORRECT! Restriction enzyme is not involved in DNA replication</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>It cannot synthesize its own protein.</text>
+		<feedback>INCORRECT! Restriction enzyme is not involved in protein synthesis</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>It will be easily infected and lysed by bacteriophages.</text>
+		<feedback>CORRECT! The natural function of restriction enzyme in bacteria is to digest the DNA of invading bacteriophages</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>All of the above.</text>
+		<feedback>INCORRECT! Please try again!</feedback>
+	</answer>
+	</question>
+	
+	<question number="5" randomanswer="true">
+		<questiontext>Restriction enzymes cleave nucleic acids at specific site by</questiontext>
+	
+	<answer fraction="0">
+		<text>breaking the hydrogen bonds between bases.</text>
+        <feedback>INCORRECT! This is for the separation of double stranded DNA</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>hydrolyzing the phosphodiester bond of DNA.</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>condensing the phosphodiester bond of DNA.</text>
+		<feedback>INCORRECT! Restriction enzymes work on the phosphodiester bond by a different reaction.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>breaking the covalent bond between the base and the sugar nucleic acid.</text>
+		<feedback>INCORRECT! Restriction enzymes do not work on this bond.</feedback>
+	</answer>
+	</question>
+</questions>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="true">
+        <questiontext>In gene transcription, RNA polymerase is used to synthesize mRNA on a __________ template.</questiontext>
+	<image ></image>
+	<answer fraction="0">
+		<text>RNA</text>
+		<feedback>INCORRECT! Please try again.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>DNA</text>
+        <feedback>CORRECT! After unzipping the double stranded DNA, one strand acts as a template for RNA synthesis.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>mRNA</text>
+		<feedback>INCORRECT! Please try again.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>tRNA</text>
+		<feedback>INCORRECT! Please try again.</feedback>
+	</answer>
+	</question>
+	
+	
+	<question number="2" randomanswer="true">
+		<questiontext>Which of the following enzyme is responsible for separating DNA strands in transcription?</questiontext>
+
+	<answer fraction="0">
+		<text>DNA polymerase</text>
+        <feedback>INCORRECT! This enzyme is responsible for DNA replication.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>RNA polymerase</text>
+		<feedback>INCORRECT! This is the enzyme for copying DNA into RNA.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>DNA nuclease</text>
+		<feedback>INCORRECT! This is the enzyme that cuts DNA by catalyzing the cleavage of phosphodiester bonds.</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>DNA helicase</text>
+		<feedback>CORRECT! This is the enzyme to unzip DNA by hydrolyzing hydrogen bonds between the two DNA strands.</feedback>
+	</answer>
+	</question>
+    
+    
+	
+	<question number="3" randomanswer="false">
+			<questiontext>Which of the following is involved in translation? &lt;br/ &gt;
+                (1) tRNA &lt;br/ &gt;
+                (2) mRNA &lt;br/ &gt;
+                (3) RNA polymerase
+            </questiontext>
+
+	<answer fraction="1">
+		<text>(1) and (2) only</text>
+		<feedback>CORRECT! tRNA and mRNA are involved in translation.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (3) only</text>
+		<feedback>INCORRECT! RNA polymerase is involved in transcription.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (3) only</text>
+        <feedback>INCORRECT! RNA polymerase is involved in transcription.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3)</text>
+		<feedback>INCORRECT! RNA polymerase is involved in transcription.</feedback>
+	</answer>
+
+	</question>
+	
+	<question number="4" randomanswer="true">
+		<questiontext>For the genetic code that code for the amino acids, the number of</questiontext>
+
+	<answer fraction="0">
+		<text>tRNA is larger than codons</text>
+        <feedback>INCORRECT! There are 64 codons, including stop codons but only 50 tRNAs in eukaryotes.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>nucleotides are larger than codons</text>
+		<feedback>INCORRECT! There are 4 nucleotides giving 64 codons</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>codons are larger than amino acids</text>
+		<feedback>CORRECT! 61 codons, excluding stop codons, code for 20 amino acids</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>all codons code for amino acids</text>
+		<feedback>INCORRECT! 61 codons, excluding stop codons, code for 20 amino acids</feedback>
+	</answer>
+	</question>
+	<question number="5" randomanswer="true">
+		<questiontext>A gene composed of 30 nucleotides can make a polypeptide of no more than _____ amino acids after transcription and translation</questiontext>
+
+	<answer fraction="1">
+		<text>10</text>
+        <feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>15</text>
+		<feedback>INCORRECT! 3 nucleotides code for 1 amino acid.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>60</text>
+		<feedback>INCORRECT! 3 nucleotides code for 1 amino acid.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>90</text>
+		<feedback>INCORRECT! 3 nucleotides code for 1 amino acid.</feedback>
+	</answer>
+
+	</question>
+</questions>

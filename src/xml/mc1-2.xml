@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions number="5" randomquestion="true" branch="false">
+	<instruction></instruction>
+
+    <question number="1" randomanswer="false">
+		<questiontext>Which of the following cells can be used as a target for gene therapy? &lt;br/ &gt;
+            (1) Red blood cells &lt;br/ &gt;
+            (2)	Muscle cells &lt;br/ &gt;
+            (3)	Liver cells
+        </questiontext>
+	
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+        <feedback>INCORRECT! There is no nucleus in mature red blood cells</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (3) only</text>
+		<feedback>INCORRECT! There is no nucleus in mature red blood cells</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(2) and (3) only</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1), (2) and (3)</text>
+		<feedback>INCORRECT! There is no nucleus in mature red blood cells</feedback>
+	</answer>
+
+	</question>
+		<question number="2" randomanswer="true">
+			<questiontext>A vector used in gene therapy is</questiontext>
+
+	<answer fraction="0">
+        <text>a piece of chromosomal DNA in bacteria.</text>
+        <feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>a kind of antibiotic to prevent infection during gene therapy.</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>used to transfer a normal gene into the target cell.</text>
+		<feedback>CORRECT! One example of vector is a virus</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>a copy of DNA for correcting the genetic error.</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+
+	</question>
+	
+	<question number="3" randomanswer="false">
+		<questiontext>Which of the following is TRUE regarding gene therapy?  &lt;br/ &gt;
+            (1)	Using DNA to treat disease.  &lt;br/ &gt;
+            (2)	Using DNA to prevent disease.  &lt;br/ &gt;
+            (3)	Involving the insertion of a gene into an individual cell.
+        </questiontext>
+
+	<answer fraction="0">
+		<text>(1) and (2) only</text>
+        <feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(1) and (3) only</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>(2) and (3) only</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>(1), (2) and (3)</text>
+		<feedback>CORRECT! According to the definition by US National library of Medicine, all the 3 statements are true.</feedback>
+	</answer>
+	</question>
+
+	<question number="4" randomanswer="true">
+		<questiontext>Gene therapy works by</questiontext>
+	
+	<answer fraction="0">
+		<text>kicking out the disease gene.</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="1">
+		<text>replacing the disease gene with normal gene.</text>
+		<feedback>CORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>adding or deducting a single nucleotide to correct the disease gene.</text>
+        <feedback>INCORRECT!</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>replacing genome of the patient.</text>
+		<feedback>INCORRECT!</feedback>
+	</answer>
+
+	</question>
+	
+	
+		<question number="5" randomanswer="true">
+		<questiontext>Gene therapy aims at changing the __________ of organism in order to cure the disease.</questiontext>
+	
+	<answer fraction="1">
+		<text>genotype</text>
+        <feedback>CORRECT! Gene therapy aims at changing the genetic makeup of an organism in order to cure the disease.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>phenotype</text>
+		<feedback>INCORRECT! Gene therapy aims at changing the genetic makeup of an organism in order to cure the disease.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>both genotype and phenotype</text>
+		<feedback>INCORRECT! Gene therapy aims at changing the genetic makeup of an organism in order to cure the disease.</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>viral content</text>
+		<feedback>INCORRECT! Gene therapy aims at changing the genetic makeup of an organism in order to cure the disease.</feedback>
+	</answer>
+	</question>
+</questions>

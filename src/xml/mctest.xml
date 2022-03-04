@@ -1,0 +1,94 @@
+<questions number="5" randomquestion="false" branch="false">
+	<instruction></instruction>
+
+	<question number="1" randomanswer="false">
+        <questiontext> false 
+        line1 <br />
+        line2
+</questiontext>
+	<image ></image>
+	<answer fraction="0">
+		<text>1</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="1">
+		<text>2</text>
+        <feedback>Correct</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>3</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>4</text>
+		<feedback></feedback>
+	</answer>
+	</question>
+
+    <question number="1" randomanswer="true">
+        <questiontext> true
+</questiontext>
+	<image ></image>
+	<answer fraction="0">
+		<text>1</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="1">
+		<text>2</text>
+        <feedback>Correct</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>3</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>4</text>
+		<feedback></feedback>
+	</answer>
+    </question>
+
+    <question number="1" randomanswer="false">
+        <questiontext> false
+</questiontext>
+	<image ></image>
+	<answer fraction="0">
+		<text>1</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="1">
+		<text>2</text>
+        <feedback>Correct</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>3</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>4</text>
+		<feedback></feedback>
+	</answer>
+	</question>
+
+    <question number="1" randomanswer="true">
+        <questiontext> true
+</questiontext>
+	<image ></image>
+	<answer fraction="0">
+		<text>1</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="1">
+		<text>2</text>
+        <feedback>Correct</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>3</text>
+		<feedback></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>4</text>
+		<feedback></feedback>
+	</answer>
+	</question>
+
+</questions>

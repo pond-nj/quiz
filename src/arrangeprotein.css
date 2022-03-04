@@ -1,0 +1,92 @@
+body { 
+	background:#fff;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; 
+}
+
+.title {
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+}
+
+h2 { 
+	color: #F90B6D;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 24px; 
+	font-weight: 300; 
+	line-height: 32px; 
+	margin: 0 0 14px; 
+}
+
+.correct { 
+	color: #00CC66; 
+}
+.done { 
+	color: #FACC2E; 
+}
+
+.draggable { 
+width: 125px; 
+	height: 23px; 
+	background: #3498db;
+	  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+	  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+	  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+	  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+	  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+	  -webkit-border-radius: 7;
+	  -moz-border-radius: 7;
+	  border-radius: 7px;
+	  font-family: Arial;
+	  color: #ffffff;
+	  font-size: 16px;
+	  padding: 3px 1px 0px 1px;
+	  text-decoration: none;
+	  text-align: center;
+}
+.droppable { 
+	width: 120px; 
+	height: 22px; 
+	padding: 0em;
+	float: left;  			
+	position: relative;
+	left: 232px;
+	top: 11px;		
+	-webkit-border-radius: 7;
+	  -moz-border-radius: 7;
+	  border-radius: 7px;
+	border: 1px solid #3498db;	
+}
+
+#droppable-1 {left: 229px;top: 9px;}
+#droppable-2 {left: 229px;top: 58px;}
+#droppable-3 {left: 229px;top: 80px;}
+#droppable-4 {left: 229px;top: 110px;}
+#droppable-5 {left: 229px;top: 108px;}
+#droppable-6 {left: 229px;top: 106px;}
+#droppable-7 {left: 229px;top: 116px;}
+#droppable-8 {left: 229px;top: 115px;}
+#droppable-9 {left: 229px;top: 125px;}
+
+
+
+
+#dropArea {
+	background-image: url(images/protein.png); 
+	height: 393px; 
+	width: 369px;
+	display:inline-block;
+}
+#dragArea {
+	position: relative;
+	left: 0px;
+	top: 0px;			
+}
+
+td{
+	vertical-align: top;
+}
+
